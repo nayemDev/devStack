@@ -2,7 +2,7 @@
 import BannerLogo from '../assets/banner-stack.png'
 const Banner = () => {
     return (
-        <div className='flex   justify-around pt-15  '>
+        <div className='flex mx-20  justify-around pt-20  '>
             <div className=''> 
                 <div className='text-6xl font-bold pt-20'>
                     <h1>Build Your Ideal</h1>

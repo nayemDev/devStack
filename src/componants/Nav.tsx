@@ -3,7 +3,7 @@ function Nav() {
   // const [count, setCount] = useState(0)
 
   return (
-    <nav className='flex justify-between  mx-20 pt-8'h-20 >
+    <nav className='flex justify-between container mx-auto pt-8'h-20 >
           <div>
             <img src={logo} alt="" />
           </div>
